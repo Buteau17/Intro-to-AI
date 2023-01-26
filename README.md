@@ -1,2 +1,2 @@
 # Intro-to-AI
-Homework for Introduction to Artificial Intelligence
+Homeworks for Introduction to Artificial Intelligence
